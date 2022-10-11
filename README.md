@@ -1,30 +1,28 @@
-![headmaster](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif)
-<h1 align="center">WooPie 👋🏻 ,I'm Stevandean</h1>
+<!-- ![headmaster](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif) -->
+<img src = "https://i.pinimg.com/originals/85/6d/be/856dbefea4e67835d66dade26b2337d7.gif" width="100%" />
+<h1 align="center">WooPie 👋🏻 , Stevandean Here</h1>
 <h3 align="center">(n)coffee</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=ff69b4&style=flat" alt="Stevandean" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/Stevandean" target="blank"><img src="https://img.shields.io/twitter/follow/Stevandean?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p> -->
-<a href="https://www.instagram.com/_.pennnn/">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=E4405F&style=flat" alt="Stevandean" /> </p>
+<a href="https://instagram.com/_.pennnn">
     <img
-      src="https://img.shields.io/badge/_.pennnn?label=&logo=instagram&style=flat-square&logoColor=fff"
+      src="https://img.shields.io/badge/Stevandean-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
-  </a>
+</a>
 
+- 👋🏻 Hi, I’m student of SMK Telkom Malang.
 
+- 🤔 I’m currently learning **Javascript**
 
+- 👀 I’m Interested in **Frontend programming**
 
-- 💖 I’m currently learning **Javascript**
+- 📬 How to reach me **stevandeanachmad1@gmail.com or <br> Hit Me Up on Instagram**
 
-- 💖 I’m Interested in **Frontend programming**
-
-- 🌸 How to reach me **stevandeanachmad1@gmail.com**
-
-- 🍄 Fun fact **I also really like things about Japaaann 🎐⛩️..**
+- 🍄 Fun fact **I also really like things about Japan 🎐⛩️..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,32 +30,19 @@
 <a href="https://www.instagram.com/_.pennnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="echaacch_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> 
-  </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+ ## 🛠 Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&logo=java&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Node-339933?style=flat&logo=Node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
