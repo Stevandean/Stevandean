@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=0e75b6&style=flat" alt="Stevandean" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chaamchn" target="blank"><img src="https://img.shields.io/twitter/follow/chaamchn?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Stevandean" target="blank"><img src="https://img.shields.io/twitter/follow/Stevandean?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p>
 
 
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Stevandeann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaamchn" height="30" width="40" /></a>
+<a href="https://twitter.com/Stevandeann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pen" height="30" width="40" /></a>
 <!-- <a href="https://linkedin.com/in/rezha ajwa p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezha ajwa p" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/_.pennnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="echaacch_" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/rezha ajwap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rezha ajwap" height="30" width="40" /></a> -->
