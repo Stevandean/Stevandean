@@ -7,7 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=ff69b4&style=flat" alt="Stevandean" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Stevandean" target="blank"><img src="https://img.shields.io/twitter/follow/Stevandean?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/Stevandean" target="blank"><img src="https://img.shields.io/twitter/follow/Stevandean?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p> -->
+<a href="https://www.instagram.com/_.pennnn/">
+    <img
+      src="https://img.shields.io/badge/Stevandean?label=&logo=instagram&style=flat-square&logoColor=fff"
+      alt="Instagram"
+    />
+  </a>
 
 
 
