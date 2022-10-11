@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echamchan&label=Profile%20views&color=0e75b6&style=flat" alt="Stevandean" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=0e75b6&style=flat" alt="Stevandean" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chaamchn" target="blank"><img src="https://img.shields.io/twitter/follow/chaamchn?logo=twitter&style=for-the-badge" alt="Stevandean" /></a> </p>
 
@@ -18,8 +18,7 @@
 
 <!-- - 🌸 How to reach me **echaazwaputrialvianti@gmail.com** -->
 
-- 🍄 Fun fact **I really like painting w watercolor n Urbanian Sketch,
-I also really like things about Japaaann 🎐⛩️..**
+- 🍄 Fun fact **I also really like things about Japaaann 🎐⛩️..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
