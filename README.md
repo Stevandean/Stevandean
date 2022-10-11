@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> 
   </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
