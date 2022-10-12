@@ -1,10 +1,9 @@
-<!-- ![headmaster](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif) -->
-<img src = "https://i.pinimg.com/originals/85/6d/be/856dbefea4e67835d66dade26b2337d7.gif" width="100%" />
+<img src = "https://github.com/Stevandean/Stevandean/blob/main/Assets/japan.gif" width="100%" />
 <h1 align="center">WooPie 👋🏻 , Stevandean Here</h1>
 <h3 align="center">(n)coffee</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Stevandean/Stevandean/blob/main/Assets/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stevandean&label=Profile%20views&color=E4405F&style=flat" alt="Stevandean" /> </p>
 <a href="https://instagram.com/_.pennnn">
