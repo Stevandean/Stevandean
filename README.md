@@ -15,7 +15,7 @@
 
 - 👋🏻 Hi, I’m student of SMK Telkom Malang.
 
-- 🤔 I’m currently learning **Javascript**
+- 🤔 I’m currently learning **Javascript** and **NEXT JS**
 
 - 👀 I’m Interested in **Frontend programming**
 
