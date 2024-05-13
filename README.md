@@ -13,7 +13,7 @@
     />
 </a>
 
-- 👋🏻 Hi, I’m student of SMK Telkom Malang.
+- 👋🏻 Hi, I’m student at MacChung University Malang Bachelor of Information Systems program.
 
 - 🤔 I’m currently learning **Javascript** and **NEXT JS**
 
